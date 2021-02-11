@@ -7,6 +7,8 @@ https://www.twitch.tv/collectifconscience/about
 
 BiblioDocs/Mediation/MinecraftExplorer/carte.jpg
 
+Mediation/MinecraftExplorer/MISSION%206%20-%20Urbanisme%20-%2015-30%20février.pdf
+
 ====
 
  * expected effect of road
